@@ -12,11 +12,10 @@ The field of game intelligence has seen an increase in player centric research. 
 
 
 Start Game:
-
+===================
 python Final.py
 
-
 Requirements Libraries 
-
+===================
 PyGame
 pygame_menu
